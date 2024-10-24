@@ -1,0 +1,33 @@
+E:\Cristi ( C# )\Misc\Tetris\Tetris\bin\Debug\Tetris.exe.config
+E:\Cristi ( C# )\Misc\Tetris\Tetris\bin\Debug\Tetris.exe
+E:\Cristi ( C# )\Misc\Tetris\Tetris\bin\Debug\Tetris.pdb
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.exe
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.pdb
+E:\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\AAAA\Documents\Blaga\Cristi ( C# )\Misc\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\AAAA\Documents\Blaga\Personal-Projects\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
